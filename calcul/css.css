@@ -1,0 +1,32 @@
+#superconteneur {
+  border-radius: 30px;
+  margin:0 auto;
+  height:600px;
+  width:700px;
+  background-color:teal;
+}
+
+#conteneur {
+  flex-wrap:wrap;
+  justify-content:center;
+  text-align:center;
+  margin:0 auto;
+  display:flex;
+}
+
+input {
+  width:300px;
+  height:65px;
+  border-radius:25px;
+}
+
+#output {
+  margin:0 auto;
+  width:400px;
+  background:teal;
+  text-align:center;
+  margin-top:50PX;
+  height:50px;
+  font-size:50px;
+  border-radius:25px;
+   }
